@@ -1,8 +1,7 @@
 
 ---
 
-# 📁 BACKEND – `README.md`
-
+---# 📁 BACKEND – `README.md`
 ```md
 # 🛒 Grocery Tracker – Backend (Spring Boot)
 
